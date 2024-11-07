@@ -1,0 +1,4 @@
+node,start_time,end_time,file_format,downsample_factor
+LJ01C,2019-01-12T03:00:00,2019-01-12T03:01:00,wav,1
+LJ01C,2019-01-12T03:01:00,2019-01-12T03:02:00,wav,1
+LJ01C,2019-01-12T03:02:00,2019-01-12T03:03:00,wav,1
