@@ -8,6 +8,6 @@ with Echopype](echosounder/leewj_asa_virtual.pdf) : Wu-Jung Lee, Applied Physics
    - The presented notebook is located at the [echopype-example repo](https://github.com/OSOceanAcoustics/echopype-examples).
    - Video from the related [SciPy 2024 talk](https://youtu.be/YRFxMGisGww?si=MqNO2qiJZkfBYMh9&t=0)
 
-3. [Frequency Wavenumber Tutorial for Array Processing] (https://github.com/tbneilsen/underwater-acoustics-data-processing/tree/main/freq_wavenumber_tutorial) : Kathleen Wage, George Mason University 
+3. [Frequency Wavenumber Tutorial for Array Processing](https://github.com/tbneilsen/underwater-acoustics-data-processing/tree/main/freq_wavenumber_tutorial) : Kathleen Wage, George Mason University 
 
 4. [Distributed Acoustic Sensing Tutorial](https://github.com/tbneilsen/underwater-acoustics-data-processing/tree/main/das_tutorial) : T.J. Flynn, Johns Hopkins University Applied Physics Laboratory Lab (JHUAPL). Video tutorial is available [here](https://www.youtube.com/watch?v=-M_1YkVI5F8)
